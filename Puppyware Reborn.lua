@@ -1,4 +1,4 @@
-getgenv().SilentKeyy = 'q'
+getgenv().SilentKeyy = 'c'
 getgenv().PredictionAmmount = 0.137
 
 --// Main Libarys \\--
